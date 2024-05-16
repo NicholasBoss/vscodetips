@@ -53,4 +53,3 @@ Brackets Extension Pack is a collection of extensions that provide features simi
 
 These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience.  
 Feel free to explore more extensions and customize your settings to suit your workflow.
-
