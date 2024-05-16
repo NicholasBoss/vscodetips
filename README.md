@@ -39,3 +39,19 @@ Polacode is an extension that allows you to create beautiful screenshots of your
 ## 10. [Brackets Extension Pack](https://marketplace.visualstudio.com/items?itemName=brackets.brackets-extension-pack) & [Brackets Keymap](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-brackets-keymap)
 
 Brackets Extension Pack is a collection of extensions that provide features similar to Adobe Brackets, a popular code editor. Brackets Keymap is an extension that brings Adobe Brackets keybindings to VS Code. Both extensions help you work with Adobe Brackets features in VS Code.
+
+## [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+- **Ctrl + Shift + P**: Open Command Palette
+- **Ctrl + Shift + E**: Show Explorer
+- **Ctrl + Shift + F**: Search in Files
+- **Ctrl + Shift + G**: Open Source Control
+- **Ctrl + Shift + ~**: Open Terminal
+- **Ctrl + ~**: Toggle Terminal
+- **Ctrl + Shift + V**: Preview Markdown (Need to be in a Markdown file)
+- **Ctrl + Shift + L**: Select all occurrences of the current selection
+
+
+
+These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience. Feel free to explore more extensions and customize your settings to suit your workflow.
+
