@@ -51,7 +51,6 @@ Brackets Extension Pack is a collection of extensions that provide features simi
 - **Ctrl + Shift + V**: Preview Markdown (Need to be in a Markdown file)
 - **Ctrl + Shift + L**: Select all occurrences of the current selection
 
-
-
-These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience. Feel free to explore more extensions and customize your settings to suit your workflow.
+These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience.  
+Feel free to explore more extensions and customize your settings to suit your workflow.
 
