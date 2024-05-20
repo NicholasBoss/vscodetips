@@ -1,8 +1,10 @@
 # Helpful Extensions in VS Code
 
+
 ## 1. [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-This extension provides a set of icons for files and folders in VS Code. It is a must-have extension for developers who work with multiple files and folders.
+This extension provides a set of icons for files and folders in VS Code. It is a must-have extension for developers who work with multiple files and folders.  
+The `example` folder holds example file extension types to show the icons of the VSCode Icons extension.
 
 ## 2. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
