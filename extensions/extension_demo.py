@@ -1,11 +1,11 @@
-
+# Better Comments Demo
 # ! - Red
 # * - Green
 # ? - Blue
 # TODO - Orange
 # FIXME - Bright Green
 
-# Error lens Demo - works with python, CSS, JavaScript and JSON so far.
+# Error lens Demo - currently supports python, CSS, JavaScript and JSON from what I have seen.
 ##
 
 ##

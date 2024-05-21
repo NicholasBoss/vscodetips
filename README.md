@@ -12,7 +12,7 @@ This extension helps you create more human-friendly comments in your code. It al
 
 ## 3. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
-Copilot is an AI-powered code completion tool that helps you write code faster. It provides suggestions for code snippets based on your context and helps you write code more efficiently.
+Copilot is an AI-powered code completion tool that helps you write code faster. It provides suggestions for code snippets based on your context and helps you write code more efficiently. Copilot is free for University Students using GitHub Education.
 
 ## 4. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
@@ -52,6 +52,9 @@ Brackets Extension Pack is a collection of extensions that provide features simi
 - **Ctrl + ~**: Toggle Terminal
 - **Ctrl + Shift + V**: Preview Markdown (Need to be in a Markdown file)
 - **Ctrl + Shift + L**: Select all occurrences of the current selection
+- **Ctrl + D** (with Brackets Extensions): Copy Line Down
+- **Ctrl + Shift + (Up/Down) Arrow** (No Brackets Extensions): Copy Line Up/Down
+- **Ctrl + Shift + (Up/Down) Arrow** (With Brackets Extensions): Multi-Cursor Up/Down
 
 These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience.  
 Feel free to explore more extensions and customize your settings to suit your workflow.
