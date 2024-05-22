@@ -16,7 +16,8 @@ Copilot is an AI-powered code completion tool that helps you write code faster. 
 
 ## 4. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
-Error Lens is an extension that highlights errors and warnings in your code directly on the line where they occur. It makes it easier to spot and fix issues in your code.
+Error Lens is an extension that highlights errors and warnings in your code directly on the line where they occur. It makes it easier to spot and fix issues in your code.  
+I have found that this extension works with at least the following languages: Python, CSS, JavaScript and JSON
 
 ## 5. [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
@@ -32,7 +33,7 @@ Auto Rename Tag is an extension that automatically renames the closing tag when 
 
 ## 8. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
-CSS Peek is an extension that allows you to peek into CSS definitions in your code directly from HTML or JavaScript files. It helps you navigate your CSS code more easily.
+CSS Peek is an extension that allows you to peek into CSS definitions in your code directly from HTML or JavaScript files. It helps you navigate your CSS code more easily. This extension also allows you to jump directly to the CSS file from the HTML file to see the CSS of the element you are working on.
 
 ## 9. [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
