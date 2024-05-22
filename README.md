@@ -43,12 +43,22 @@ Polacode is an extension that allows you to create beautiful screenshots of your
 
 Brackets Extension Pack is a collection of extensions that provide features similar to Adobe Brackets, a popular code editor. Brackets Keymap is an extension that brings Adobe Brackets keybindings to VS Code. Both extensions help you work with Adobe Brackets features in VS Code.
 
+## 11. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+Live Share is an extension that allows you to collaborate with other developers in real-time. It provides features like shared editing, debugging, and terminal access. It is a great tool for pair programming and code reviews.
+
+## 12. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+Live Server is an extension that launches a local development server with live reload capability. It helps you preview your web applications in the browser and see the changes in real-time.
+
 ## [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 - **Ctrl + Shift + P**: Open Command Palette
 - **Ctrl + Shift + E**: Show Explorer
 - **Ctrl + Shift + F**: Search in Files
 - **Ctrl + Shift + G**: Open Source Control
+- **Ctrl + Shift + D**: Open Debug
+- **Ctrl + Shift + X**: Open Extensions
 - **Ctrl + Shift + ~**: Open Terminal
 - **Ctrl + ~**: Toggle Terminal
 - **Ctrl + Shift + V**: Preview Markdown (Need to be in a Markdown file)
