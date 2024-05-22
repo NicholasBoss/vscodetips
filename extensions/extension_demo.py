@@ -5,7 +5,7 @@
 # TODO - Orange
 # FIXME - Bright Green
 
-# Error lens Demo - currently supports python, CSS, JavaScript and JSON from what I have seen.
+# Error lens Demo - Currently supports Python, CSS, JavaScript and JSON from what I have seen.
 ##
 
 ##
