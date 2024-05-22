@@ -61,7 +61,7 @@ Live Server is an extension that launches a local development server with live r
 - **Ctrl + Shift + X**: Open Extensions
 - **Ctrl + Shift + ~**: Open Terminal
 - **Ctrl + ~**: Toggle Terminal
-- **Ctrl + Shift + V**: Preview Markdown (Need to be in a Markdown file)
+- **Ctrl + Shift + V**: Preview Markdown (Need to have a Markdown file open)
 - **Ctrl + Shift + L**: Select all occurrences of the current selection
 - **Ctrl + D** (with Brackets Extensions): Copy Line Down
 - **Ctrl + Shift + (Up/Down) Arrow** (No Brackets Extensions): Copy Line Up/Down
