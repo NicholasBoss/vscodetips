@@ -51,20 +51,21 @@ Live Share is an extension that allows you to collaborate with other developers 
 
 Live Server is an extension that launches a local development server with live reload capability. It helps you preview your web applications in the browser and see the changes in real-time.
 
-## [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+## [Keyboard Shortcuts (Windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) & [Keyboard Shortcuts (Mac)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 - **Ctrl + Shift + P**: Open Command Palette
 - **Ctrl + Shift + E**: Show Explorer
 - **Ctrl + Shift + F**: Search in Files
 - **Ctrl + Shift + G**: Open Source Control
 - **Ctrl + Shift + D**: Open Debug
+- **Ctrl + Shift + F**: Open Super Search
 - **Ctrl + Shift + X**: Open Extensions
 - **Ctrl + Shift + ~**: Open Terminal
 - **Ctrl + ~**: Toggle Terminal
 - **Ctrl + Shift + V**: Preview Markdown (Need to have a Markdown file open)
 - **Ctrl + Shift + L**: Select all occurrences of the current selection
 - **Ctrl + D** (with Brackets Extensions): Copy Line Down
-- **Ctrl + Shift + (Up/Down) Arrow** (No Brackets Extensions): Copy Line Up/Down
+- **Shift + ALT + (Up/Down) Arrow** (No Brackets Extensions): Copy Line Up/Down
 - **Ctrl + Shift + (Up/Down) Arrow** (With Brackets Extensions): Multi-Cursor Up/Down
 
 These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience.  

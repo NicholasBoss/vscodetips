@@ -1,7 +1,7 @@
 # Better Comments Demo
-# ! - Red
-# * - Green
-# ? - Blue
+# ! - Red - Important
+# * - Green - Information   
+# ? - Blue - Question
 # TODO - Orange
 # FIXME - Bright Green
 
