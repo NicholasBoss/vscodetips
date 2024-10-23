@@ -51,6 +51,14 @@ Live Share is an extension that allows you to collaborate with other developers 
 
 Live Server is an extension that launches a local development server with live reload capability. It helps you preview your web applications in the browser and see the changes in real-time.
 
+## 13. [SQL Notebook](https://marketplace.visualstudio.com/items?itemName=cmoog.sqlnotebook)
+
+SQL Notebook is an extension that allows you to connect to a SQL database and run SQL queries directly in VS Code. It provides features like syntax highlighting, code completion, and result visualization. (Use **Ctrl + Enter** to run the block of code)
+
+## 14. [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+GitHub Pull Requests and Issues is an extension that allows you to manage your GitHub pull requests and issues directly in VS Code. It provides features like reviewing code, commenting on pull requests, and creating new issues.
+
 ## [Keyboard Shortcuts (Windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) & [Keyboard Shortcuts (Mac)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 - **Ctrl + Shift + P**: Open Command Palette
