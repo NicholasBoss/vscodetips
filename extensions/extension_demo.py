@@ -6,10 +6,17 @@
 # FIXME - Bright Green
 
 # Error lens Demo - Currently supports Python, CSS, JavaScript and JSON from what I have seen.
-##
+#
+
+
+
+
+
 
 ##
-
+bekk
+print = "Hello World"
+print(print)
 
 
 

@@ -78,3 +78,10 @@ GitHub Pull Requests and Issues is an extension that allows you to manage your G
 
 These are some of the helpful extensions and keyboard shortcuts in VS Code that can improve your coding experience.  
 Feel free to explore more extensions and customize your settings to suit your workflow.
+
+
+# Get the power of VS Code extensions without extensions by using Jetbrains products
+
+**For those that would like to try different editors that are used in the workplace can check out [Jetbrains](https://www.jetbrains.com/ides/) which makes tools like Android Studio and Rider.**
+
+**[Student licenses](https://www.jetbrains.com/community/education/#students) are FREE and you'll use the tools in classes like CSE 210 and CSE 212**
